@@ -21,7 +21,7 @@ This project implements a simplified distributed key-value store using the Raft 
 1. Clone the repository:
 ```
 
-git clone [https://github.com/yourusername/distributed-key-value-store.git](https://github.com/yourusername/distributed-key-value-store.git)
+git clone [https://github.com/Apostu0Alexandru/distributed-key-value-store.git](https://github.com/Apostu0Alexandru/distributed-key-value-store.git)
 cd distributed-key-value-store
 
 ```plaintext
